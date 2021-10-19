@@ -13,8 +13,12 @@ def get_fibonacci_sequence(TODO):
 def get_sorted_dict_by_decimals(TODO):
 	pass
 
+def fibonacci_numbers(length):
+	pass
+
 def build_recursive_sequence_generator(TODO):
 	pass
+
 
 if __name__ == "__main__":
 	print([get_fibonacci_number(0), get_fibonacci_number(1), get_fibonacci_number(2)])
